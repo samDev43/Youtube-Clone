@@ -1,0 +1,24 @@
+.code{
+    background-color: hsla(0, 100%, 100%, 0.88);;
+}
+.no-scrollbar{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.use{
+      font-family: "sans-serif", sans-serif;
+  font-weight:700;
+  font-style: normal;
+    
+    
+    
+  
+}
+.a{
+   font-family: "Roboto", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  
+}
+
+ 
