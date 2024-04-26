@@ -20,5 +20,20 @@
   font-style: normal;
   
 }
+@media screen and (max-width: 470px) {
+ .sid-nav{
+    display: none;
+ }
+ .margin-left{
+    margin-left: 0px;
+ }
+ .top-nav{
+    max-width: 100%;
+    /* float: none; */
+ }
+ .img-margin{
+    width: 100%;
+ }
+}
 
  
